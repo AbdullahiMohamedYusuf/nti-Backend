@@ -1,0 +1,2046 @@
+[
+  {
+    "Namn": "Midan Odenplan",
+    "Address": "Odengatan 58",
+    "Stad": "Stockholm",
+    "Postnummer": "113 22",
+    "Typ": "Resturang",
+    "Nummer": "076-177 40 30",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Stockholms Moské",
+    "Address": "Kapellgränd 10",
+    "Stad": "Stockholm",
+    "Postnummer": "116 25",
+    "Typ": "Moské",
+    "Nummer": "08-509 109 00",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Damascus Gate",
+    "Address": "Skärholmsplan 1-5",
+    "Stad": "Stockholm",
+    "Postnummer": "127 48",
+    "Typ": "Resturang",
+    "Nummer": "079-011 21 12",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Masjid Aysha",
+    "Address": "Sankt Eriksgatan 91",
+    "Stad": "Stockholm",
+    "Postnummer": "113 22",
+    "Typ": "Moské",
+    "Nummer": "08-33 44 90",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "JALVI Pakistani & Indian Food (Halal)",
+    "Address": "Dalvägen 1",
+    "Stad": "Stockholm",
+    "Postnummer": "169 56",
+    "Typ": "Resturang",
+    "Nummer": "08-500 217 29",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Chili Masala",
+    "Address": "Hagalundsgatan 19",
+    "Stad": "Stockholm",
+    "Postnummer": "169 66",
+    "Typ": "Resturang",
+    "Nummer": "08-27 70 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Notello Rolls Stockholm",
+    "Address": "Warfvinges väg 18",
+    "Stad": "Stockholm",
+    "Postnummer": "112 18",
+    "Typ": "Kafé",
+    "Nummer": "010-179 99 77",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.5
+  },
+  {
+    "Namn": "Rotana Café Sollentuna",
+    "Address": "Djupdalsvägen 7",
+    "Stad": "Stockholm",
+    "Postnummer": "192 51",
+    "Typ": "Kafé",
+    "Nummer": "08-428 455 51",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.5
+  },
+  {
+    "Namn": "Hashtag Cafe",
+    "Address": "Borgarfjordsgatan 23",
+    "Stad": "Stockholm",
+    "Postnummer": "164 40",
+    "Typ": "Kafé",
+    "Nummer": "",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Bram's Burgers Kista",
+    "Address": "Grönlandsgatan 8",
+    "Stad": "Stockholm",
+    "Postnummer": "164 40",
+    "Typ": "Resturang",
+    "Nummer": "08-27 01 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Bram's Burgers Kungens Kurva",
+    "Address": "Parkering, Modulvägen 6",
+    "Stad": "Stockholm",
+    "Postnummer": "141 75",
+    "Typ": "Resturang",
+    "Nummer": "08-27 01 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.9
+  },
+  {
+    "Namn": "Oh Poké Kista",
+    "Address": "Hanstavägen 55F",
+    "Stad": "Stockholm",
+    "Postnummer": "164 53",
+    "Typ": "Resturang",
+    "Nummer": "08-520 275 38",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Sweet O Salti Restaurang",
+    "Address": "Birger Jarlsgatan 93 A",
+    "Stad": "Stockholm",
+    "Postnummer": "113 56",
+    "Typ": "Resturang",
+    "Nummer": "076-650 06 33",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Mahalo Östermalm",
+    "Address": "Odengatan 26",
+    "Stad": "Stockholm",
+    "Postnummer": "113 51",
+    "Typ": "Kafé",
+    "Nummer": "073-729 54 53",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Folkets Kebab",
+    "Address": "Hornsgatan 92",
+    "Stad": "Stockholm",
+    "Postnummer": "118 21",
+    "Typ": "Resturang",
+    "Nummer": "08-669 91 66",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Kolgrill Sam",
+    "Address": "Bygatan 42B",
+    "Stad": "Stockholm",
+    "Postnummer": "191 46",
+    "Typ": "Resturang",
+    "Nummer": "070-093 90 83",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Midan Hornsberg",
+    "Address": "Hornsbergs Strand 101",
+    "Stad": "Stockholm",
+    "Postnummer": "112 15",
+    "Typ": "Resturang",
+    "Nummer": "076-178 40 30",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Oh Poké Sveavägen",
+    "Address": "Sveavägen 31",
+    "Stad": "Stockholm",
+    "Postnummer": "111 34",
+    "Typ": "Resturang",
+    "Nummer": "08-520 276 93",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.7
+  },
+  {
+    "Namn": "Oh Poké Klarabergviadukten",
+    "Address": "Klarabergsviadukten 86",
+    "Stad": "Stockholm",
+    "Postnummer": "111 64",
+    "Typ": "Resturang",
+    "Nummer": "08-502 351 99",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Oh Poké Vasagatan",
+    "Address": "Vasagatan 10",
+    "Stad": "Stockholm",
+    "Postnummer": "111 20",
+    "Typ": "Resturang",
+    "Nummer": "08-520 275 43",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.7
+  },
+  {
+    "Namn": "Oh Poké Hammarby",
+    "Address": "Båtbyggargatan 19",
+    "Stad": "Stockholm",
+    "Postnummer": "120 70",
+    "Typ": "Resturang",
+    "Nummer": "08-520 275 36",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Oh Poké Liljeholmen",
+    "Address": "Nybohovsbacken 38",
+    "Stad": "Stockholm",
+    "Postnummer": "117 61",
+    "Typ": "Resturang",
+    "Nummer": "08-517 082 07",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.4
+  },
+  {
+    "Namn": "Oh Poké Syndbyberg",
+    "Address": "Sturegatan 29",
+    "Stad": "Stockholm",
+    "Postnummer": "172 31",
+    "Typ": "Resturang",
+    "Nummer": "08-520 276 49",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Oh Poké Högdalen",
+    "Address": "Högdalsgången 24",
+    "Stad": "Stockholm",
+    "Postnummer": "124 54",
+    "Typ": "Resturang",
+    "Nummer": "08-517 082 09",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Oh Poké Nacka",
+    "Address": "Forumvägen 14",
+    "Stad": "Stockholm",
+    "Postnummer": "131 53",
+    "Typ": "Resturang",
+    "Nummer": "08-517 082 23",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.7
+  },
+  {
+    "Namn": "Oh Poké Farsta Centrum",
+    "Address": "Farstaplan 20",
+    "Stad": "Stockholm",
+    "Postnummer": "123 47",
+    "Typ": "Resturang",
+    "Nummer": "08-517 082 48",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Oh Poké Sollentuna",
+    "Address": "Sollentunavägen 132h",
+    "Stad": "Stockholm",
+    "Postnummer": "191 48",
+    "Typ": "Resturang",
+    "Nummer": "08-520 275 74",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Oh Poké Barkaby",
+    "Address": " Barkarbyvägen 28b",
+    "Stad": "Stockholm",
+    "Postnummer": "177 44",
+    "Typ": "Resturang",
+    "Nummer": "08-502 351 53",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Oh Poké Älvsjö",
+    "Address": "Perronggatan 9",
+    "Stad": "Stockholm",
+    "Postnummer": "125 31",
+    "Typ": "Resturang",
+    "Nummer": "08-792 06 21",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Oh Poké foodmonster",
+    "Address": "Lindhagensgatan 108A",
+    "Stad": "Stockholm",
+    "Postnummer": "112 55",
+    "Typ": "Resturang",
+    "Nummer": "08-520 277 76",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Midan Sundbyberg",
+    "Address": "Sturegatan 21",
+    "Stad": "Stockholm",
+    "Postnummer": "172 31",
+    "Typ": "Resturanger",
+    "Nummer": "08-29 90 05",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Uppsala Moskén",
+    "Address": "Sportfältsvägen 1",
+    "Stad": "Uppsala",
+    "Postnummer": "754 19",
+    "Typ": "Moské",
+    "Nummer": "018-21 98 81",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Islamiska Kulturcenter i Rinkeby المركز الثقافي الإسلامي‎",
+    "Address": "Rinkeby Allé 2",
+    "Stad": "Stockholm",
+    "Postnummer": "163 73",
+    "Typ": "Moské",
+    "Nummer": "08-795 50 80",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Fittja Moské",
+    "Address": "Tegelbruksvägen 10",
+    "Stad": "Stockholm",
+    "Postnummer": "145 53",
+    "Typ": "Moské",
+    "Nummer": "08-531 773 94",
+
+    "Stjärnor": 4.9
+  },
+  {
+    "Namn": "Hässelby Moské",
+    "Address": "Kvarnhagsgatan 128",
+    "Stad": "Stockholm",
+    "Postnummer": "165 54",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Skärholmens moské مسجد‎",
+    "Address": "Bredholmstorget 12",
+    "Stad": "Stockholm",
+    "Postnummer": "127 48",
+    "Typ": "Moské",
+    "Nummer": "076-925 74 18",
+
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Fatih Moské",
+    "Address": "Sveavägen 94",
+    "Stad": "Stockholm",
+    "Postnummer": "113 50",
+    "Typ": "Moské",
+    "Nummer": "070-712 01 22",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Sollentuna Moské",
+    "Address": "Oppegårdsstråket 11",
+    "Stad": "Stockholm",
+    "Postnummer": "191 60",
+    "Typ": "Moské",
+    "Nummer": "070-734 24 47",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Akalla Moské",
+    "Address": "Sibeliusgången 2, BV, Sibeliusgången 4",
+    "Stad": "Stockholm",
+    "Postnummer": "164 73",
+    "Typ": "Moské",
+    "Nummer": "076-278 60 00",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Khadija Center مسجد ومجمع السيدة خديجة‎",
+    "Address": "Kista Torg 5",
+    "Stad": "Stockholm",
+    "Postnummer": "164 42",
+    "Typ": "Moské",
+    "Nummer": "070 75 69 343",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Husby Islamiska Kulturcenter",
+    "Address": "Edvard Griegsgången 7A, 164 32 Kista",
+    "Stad": "Stockholm",
+    "Postnummer": "113 22",
+    "Typ": "Moské",
+    "Nummer": "076 - 060 87 76",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Moské Alrahma مسجد الرحمه‎",
+    "Address": "Vällingbyvägen 152",
+    "Stad": "Stockholm",
+    "Postnummer": "162 63",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Eritreanska moskén i Tensta",
+    "Address": "Lättingebacken 46",
+    "Stad": "Stockholm",
+    "Postnummer": "163 62",
+    "Typ": "Moské",
+    "Nummer": "076-565 55 74",
+
+    "Stjärnor": 5.0
+  },
+  {
+    "Namn": "Järfälla moské",
+    "Address": "Snapphanevägen 244",
+    "Stad": "Stockholm",
+    "Postnummer": "177 55",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Handen moské",
+    "Address": "Vallavägen 6",
+    "Stad": "Stockholm",
+    "Postnummer": "136 41",
+    "Typ": "Moské",
+    "Nummer": "08-420 640 58",
+
+    "Stjärnor": 4.9
+  },
+  {
+    "Namn": "JORDBRO MOSKE",
+    "Address": "Moränvägen 25",
+    "Stad": "Stockholm",
+    "Postnummer": "137 64",
+    "Typ": "Moské",
+    "Nummer": "073-871 37 42",
+
+    "Stjärnor": 5.0
+  },
+  {
+    "Namn": "Masjid Al Qarwajin I Skogås",
+    "Address": "Österleden 13",
+    "Stad": "Stockholm",
+    "Postnummer": "142 30",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Alby moské - Islamiskt forum i Botkyrka مسجد البي‎",
+    "Address": "Rotemannavägen 24",
+    "Stad": "Stockholm",
+    "Postnummer": "145 57",
+    "Typ": "Moské",
+    "Nummer": "072-001 05 68",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Mahalo Södermalm",
+    "Address": "Hornsgatan 61",
+    "Stad": "Stockholm",
+    "Postnummer": "118 49",
+    "Typ": "Resturang",
+    "Nummer": "073-961 82 17",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mangal BBQ Centralstation",
+    "Address": "Centralplan 29",
+    "Stad": "Stockholm",
+    "Postnummer": "111 20",
+    "Typ": "Resturang",
+    "Nummer": "08-15 88 10",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.1
+  },
+  {
+    "Namn": "Mangal bbq Häggvik",
+    "Address": "Bagarbyvägen 61",
+    "Stad": "Stockholm",
+    "Postnummer": "191 62",
+    "Typ": "Resturang",
+    "Nummer": "070-553 55 51",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.6
+  },
+  {
+    "Namn": "Lezzet Mangal",
+    "Address": "Danmarksgatan 30",
+    "Stad": "Stockholm",
+    "Postnummer": "164 53",
+    "Typ": "Resturang",
+    "Nummer": "08-751 90 08",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mangal BBQ Vällingby",
+    "Address": "Pajalagatan 54",
+    "Stad": "Stockholm",
+    "Postnummer": "162 65",
+    "Typ": "Resturang",
+    "Nummer": "073-037 81 52",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mangal BBQ MOS",
+    "Address": "Stjärntorget 2",
+    "Stad": "Stockholm",
+    "Postnummer": "169 79",
+    "Typ": "Resturang",
+    "Nummer": "0722300066",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Mangal BBQ Solna Centrum",
+    "Address": "Solnavägen 19",
+    "Stad": "Stockholm",
+    "Postnummer": "171 45",
+    "Typ": "Resturang",
+    "Nummer": "073-821 30 18",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.3
+  },
+  {
+    "Namn": "Mangal BBQ Express",
+    "Address": "Takpannegatan 6",
+    "Stad": "Uppsala",
+    "Postnummer": "754 60",
+    "Typ": "Resturang",
+    "Nummer": "018-20 13 13",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Amida kolgrill Sundbyberg",
+    "Address": "Tulegatan 10",
+    "Stad": "Stockholm",
+    "Postnummer": "172 78",
+    "Typ": "Resturang",
+    "Nummer": "08-28 00 44",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Amida Kolgrill",
+    "Address": "Folkungagatan 76",
+    "Stad": "Stockholm",
+    "Postnummer": "116 22",
+    "Typ": "Resturang",
+    "Nummer": "08-442 03 60",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Kebab kungen Tensta",
+    "Address": "Tenstagången 5",
+    "Stad": "Stockholm",
+    "Postnummer": "163 64",
+    "Typ": "Resturang",
+    "Nummer": "072-285 97 72",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Kebab Kungen Skanstull",
+    "Address": "Götgatan 84",
+    "Stad": "Stockholm",
+    "Postnummer": "118 62",
+    "Typ": "Resturang",
+    "Nummer": "08-641 87 67",
+
+    "Prisklass": "$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Kebab Kungen Odenplan",
+    "Address": "Odengatan 54",
+    "Stad": "Stockholm",
+    "Postnummer": "113 22",
+    "Typ": "Resturang",
+    "Nummer": "08-30 00 54",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Södertäljes moské",
+    "Address": "Erikshällsgatan 40",
+    "Stad": "Stockholm",
+    "Postnummer": "151 46",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Somaliska förening i Södertälje",
+    "Address": "Höglandsvägen 2",
+    "Stad": "Stockholm",
+    "Postnummer": "152 31",
+    "Typ": "Moské",
+    "Nummer": "070-453 72 74",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Islamiska kultur föreningen",
+    "Address": "Norra Esplanaden 21",
+    "Stad": "Nybro",
+    "Postnummer": "382 41",
+    "Typ": "Moské",
+    "Nummer": "0723282727",
+
+    "Stjärnor": ""
+  },
+  {
+    "Namn": "Örebro Moské",
+    "Address": "Epiloggatan 1",
+    "Stad": "Örebro",
+    "Postnummer": "703 70",
+    "Typ": "Moské",
+    "Nummer": "070-456 30 86",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Islamiska kulturcentret (Västervik moské)",
+    "Address": "Grevgatan 2",
+    "Stad": "Västervik",
+    "Postnummer": "593 32",
+    "Typ": "Moské",
+    "Nummer": "070-492 77 45",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Somaliska Islamiska Moskén i Trollhättan",
+    "Address": "lantmannavägen 38-40",
+    "Stad": "Trollhättan",
+    "Postnummer": "461 06",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Islamiska Kultur Föreningen i Trollhättan",
+    "Address": "Slåttervägen 70B",
+    "Stad": "Trollhättan",
+    "Postnummer": "461 61",
+    "Typ": "Moské",
+    "Nummer": "0520-49 78 37",
+
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Shiamuslimska Moskèn Trollhättan",
+    "Address": "Lextorpsvägen 976",
+    "Stad": "Trollhättan",
+    "Postnummer": "461 65",
+    "Typ": "Moské",
+    "Nummer": "0520-703 33",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Nasirmoskén",
+    "Address": "Tolvskillingsgatan 1",
+    "Stad": "Göteborg",
+    "Postnummer": "414 82",
+    "Typ": "Moské",
+    "Nummer": "031-741 64 89",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Ljungby moské",
+    "Address": "Skånegatan 2c",
+    "Stad": "Ljungby",
+    "Postnummer": "341 31",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Halmstad moské",
+    "Address": "Fredsgatan 15",
+    "Stad": "Halmstad",
+    "Postnummer": "302 46",
+    "Typ": "Moské",
+    "Nummer": "073-479 51 84",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Borås Moské",
+    "Address": "Magasinsgatan 16",
+    "Stad": "Borås",
+    "Postnummer": "504 35",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Bellevue Moské",
+    "Address": "Stallmästaregatan 5",
+    "Stad": "Göteborg",
+    "Postnummer": "415 05",
+    "Typ": "Moské",
+    "Nummer": "031-84 39 17",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Jönköping Islamic Center",
+    "Address": "Birkagatan 40",
+    "Stad": "Jönköping",
+    "Postnummer": "561 33",
+    "Typ": "Moské",
+    "Nummer": "073-976 17 73",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Karlstad Moské",
+    "Address": "Jakthornsgatan 98A",
+    "Stad": "Karlstad",
+    "Postnummer": "656 32",
+    "Typ": "Moské",
+    "Nummer": "073-913 15 15",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Nyköpings Moske ( Islamiska Kultur Center )",
+    "Address": "S:t Annegatan 4",
+    "Stad": "Nyköping",
+    "Postnummer": "611 34",
+    "Typ": "Moské",
+    "Nummer": "076-403 05 85",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "ENKÖPING MOSKE (MASJIDKA ENKOPING )",
+    "Address": "Östra Järnvägsgatan 1",
+    "Stad": "ENKÖPING",
+    "Postnummer": "745 37",
+    "Typ": "Moské",
+    "Nummer": "070-141 55 51",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Falun Islamic Center",
+    "Address": "Ugglevägen 2",
+    "Stad": "Falun",
+    "Postnummer": "791 50",
+    "Typ": "Moské",
+    "Nummer": "072-302 01 88",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Borlänge Islamic Centre",
+    "Address": "Betesgatan 1",
+    "Stad": "Borlänge",
+    "Postnummer": "784 41",
+    "Typ": "Moské",
+    "Nummer": "0243-856 42",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Al Rashideen Mosque",
+    "Address": "Södra Rådmansgatan 25",
+    "Stad": "Gävle",
+    "Postnummer": "802 51",
+    "Typ": "Moské",
+    "Nummer": "+46 (0)21 490 47 00",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Bollnäs Islamic Center",
+    "Address": "Fabriksgatan 8B",
+    "Stad": "Bollnäs",
+    "Postnummer": "821 33",
+    "Typ": "Moské",
+    "Nummer": "072-548 16 08",
+
+    "Stjärnor": 4.9
+  },
+  {
+    "Namn": "Sala Moské",
+    "Address": "Åkragatan 8A",
+    "Stad": "Sala",
+    "Postnummer": "733 35",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Hello Boba Mall Of Scandavia",
+    "Address": "Stjärntorget 2",
+    "Stad": "Stockholm",
+    "Postnummer": "169 79",
+    "Typ": "Kafé",
+    "Nummer": "076-313 94 82",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Hello Boba Täby Centrum",
+    "Address": "Stora Marknadsvägen",
+    "Stad": "Stockholm",
+    "Postnummer": "183 34",
+    "Typ": "Kafé",
+    "Nummer": "",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.7
+  },
+  {
+    "Namn": "Hello Boba Liljeholmen",
+    "Address": "Liljeholmstorget 7",
+    "Stad": "Stockholm",
+    "Postnummer": "117 63",
+    "Typ": "Kafé",
+    "Nummer": "072-038 33 83",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Bosniska Islamiska Zajednica Stockholm",
+    "Address": "Frodevägen 8",
+    "Stad": "Stockholm",
+    "Postnummer": "163 43",
+    "Typ": "Moské",
+    "Nummer": "08-653 68 21",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Islamiska Föreningen I Stockholm",
+    "Address": "Apelbergsgatan 34",
+    "Stad": "Stockholm",
+    "Postnummer": "111 37",
+    "Typ": "Moské",
+    "Nummer": "08-21 20 99",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Islamiska Kulturföreningen i Stockholm",
+    "Address": "Kocksgatan 23",
+    "Stad": "Stockholm",
+    "Postnummer": "116 24",
+    "Typ": "Moské",
+    "Nummer": "08-644 55 89",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Afghanska Islamiska Center i Sverige",
+    "Address": "Hardemogatan 1",
+    "Stad": "Stockholm",
+    "Postnummer": "124 67",
+    "Typ": "Moské",
+    "Nummer": "073-999 24 70",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Jönköpings Islamiska Församling",
+    "Address": "Kärrhöksgatan 78",
+    "Stad": "Jönköping",
+    "Postnummer": "556 12",
+    "Typ": "Moské",
+    "Nummer": "036-18 48 06",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Stiftelsen Växjö Muslimer",
+    "Address": "Försommarvägen 2, 352 37 Växjö",
+    "Stad": "Stockholm",
+    "Postnummer": "113 22",
+    "Typ": "Moské",
+    "Nummer": "076-855 51 22",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Umeå Moské",
+    "Address": "Skolgatan 41",
+    "Stad": "Umeå",
+    "Postnummer": "903 27",
+    "Typ": "Moské",
+    "Nummer": "079-047 13 31",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Skellefteå Moské",
+    "Address": "Hörnellgatan 17-13",
+    "Stad": "Skellefteå",
+    "Postnummer": "931 30",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Islamiska Föreningen Piteå",
+    "Address": "trädgårdsgatan 3B",
+    "Stad": "Piteå",
+    "Postnummer": "941 31",
+    "Typ": "Moské",
+    "Nummer": "072-201 26 13",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Luleå Moské Församling",
+    "Address": "Kronanvägen 1",
+    "Stad": "Luleå",
+    "Postnummer": "974 42",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Boden Moske",
+    "Address": "Drottninggatan 5",
+    "Stad": "Boden",
+    "Postnummer": "961 35",
+    "Typ": "Moské",
+    "Nummer": "076-585 27 52",
+
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Gällivare islamiska föreningen",
+    "Address": "Hantverkaregatan 1",
+    "Stad": "Gällivare",
+    "Postnummer": "982 31",
+    "Typ": "Moské",
+    "Nummer": "070-260 12 87",
+
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Kiruna moské",
+    "Address": "Ripvägen",
+    "Stad": "Kiruna",
+    "Postnummer": "981 41",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Masjid Al-Imam Malek",
+    "Address": "Safirgränd 36",
+    "Stad": "Stockholm",
+    "Postnummer": "126 79",
+    "Typ": "Moské",
+    "Nummer": "070-777 59 30",
+
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Masjid al-Furqân",
+    "Address": "Ekholmsvägen 365",
+    "Stad": "Stockholm",
+    "Postnummer": "127 45",
+    "Typ": "Moské",
+    "Nummer": "",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Masjid Ahlal Bait",
+    "Address": "Vänortsringen 1",
+    "Stad": "Stockholm",
+    "Postnummer": "195 30",
+    "Typ": "Moské",
+    "Nummer": "0707755802",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "Izmir Kebab HB",
+    "Address": "Hötorgshallen 29 A",
+    "Stad": "Stockholm",
+    "Postnummer": "111 57",
+    "Typ": "Resturang",
+    "Nummer": "08-21 76 03",
+
+    "Prisklass": "$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "La Gazelle",
+    "Address": "Hötorgshallen 40",
+    "Stad": "Stockholm",
+    "Postnummer": "111 57",
+    "Typ": "Resturang",
+    "Nummer": "076-291 26 12",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Negashi Moské",
+    "Address": "Skolgången 2",
+    "Stad": "Stockholm",
+    "Postnummer": "174 52",
+    "Typ": "Moské",
+    "Nummer": "076-562 05 09",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Alby Matcenter",
+    "Address": "Alby centrum",
+    "Stad": "Stockholm",
+    "Postnummer": "145 57",
+    "Typ": "Affär",
+    "Nummer": "08-531 721 71",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Sollentuna Matcenter",
+    "Address": "Malmvägen 18A",
+    "Stad": "Stockholm",
+    "Postnummer": "191 60",
+    "Typ": "Affär",
+    "Nummer": "08-96 36 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Fittja Supermarket MACKROGREEN AB",
+    "Address": "Krögarvägen 10",
+    "Stad": "Stockholm",
+    "Postnummer": "145 52",
+    "Typ": "Affär",
+    "Nummer": "08-531 794 01",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Matgrossen Högdalen",
+    "Address": "Högdalsgången 1",
+    "Stad": "Stockholm",
+    "Postnummer": "124 42",
+    "Typ": "Affär",
+    "Nummer": "073-760 95 91",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Matvärlden Veddesta",
+    "Address": "Nettovägen 2-4",
+    "Stad": "Stockholm",
+    "Postnummer": "175 41",
+    "Typ": "Affär",
+    "Nummer": "08-409 360 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Kista Grossen",
+    "Address": "Torsnäsgatan 4-6",
+    "Stad": "Stockholm",
+    "Postnummer": "164 40",
+    "Typ": "Affär",
+    "Nummer": "08-751 01 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Himalaya Livs",
+    "Address": "Valhallavägen 67",
+    "Stad": "Stockholm",
+    "Postnummer": "114 28",
+    "Typ": "Affär",
+    "Nummer": "08-673 13 52",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Damascus Deli",
+    "Address": "Valhallavägen 75",
+    "Stad": "Stockholm",
+    "Postnummer": "114 28",
+    "Typ": "Affär",
+    "Nummer": "073-515 55 14",
+
+    "Prisklass": "$$",
+    "Stjärnor": 5.0
+  },
+  {
+    "Namn": "Prima Gross",
+    "Address": "Danmarksgatan 32",
+    "Stad": "Stockholm",
+    "Postnummer": "164 53",
+    "Typ": "Affär",
+    "Nummer": "073-526 52 07",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Rinkeby matcenter",
+    "Address": "Rinkebytorget 8",
+    "Stad": "Stockholm",
+    "Postnummer": "163 72",
+    "Typ": "Affär",
+    "Nummer": "08-36 31 58",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Brandbergens livs",
+    "Address": "Jungfruns gata 417",
+    "Stad": "Stockholm",
+    "Postnummer": "136 60",
+    "Typ": "Affär",
+    "Nummer": "073-892 95 57",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Fittja matmarknad",
+    "Address": "Fittja Torg 21",
+    "Stad": "Stockholm",
+    "Postnummer": "145 51",
+    "Typ": "Affär",
+    "Nummer": "08-740 13 37",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Rinkeby Orient Livs HB",
+    "Address": "Hinderstorps gränd 24",
+    "Stad": "Stockholm",
+    "Postnummer": "163 72",
+    "Typ": "Affär",
+    "Nummer": "072-729 00 62",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Orient Livs Tensta",
+    "Address": "Krällingegränd 33",
+    "Stad": "Stockholm",
+    "Postnummer": "163 62",
+    "Typ": "Affär",
+    "Nummer": "08-760 14 05",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "BOC Sthlm",
+    "Address": "Pilottorget 8",
+    "Stad": "Stockholm",
+    "Postnummer": "128 32",
+    "Typ": "Resturang",
+    "Nummer": "076-171 45 72",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Burger Mansion Stockholm",
+    "Address": "Harpsundsvägen 18",
+    "Stad": "Stockholm",
+    "Postnummer": "124 58",
+    "Typ": "Resturang",
+    "Nummer": "076-303 12 85",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Çok Hornsberg",
+    "Address": "Hornsbergs Strand 53",
+    "Stad": "Stockholm",
+    "Postnummer": "112 16",
+    "Typ": "Resturang",
+    "Nummer": "08-715 15 01",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Çok Södermalm",
+    "Address": "Nytorgsgatan 33",
+    "Stad": "Stockholm",
+    "Postnummer": "116 40",
+    "Typ": "Resturang",
+    "Nummer": "08-600 51 01",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Cizgara Kolgrill – Barkarby",
+    "Address": "Skälbyvägen 23",
+    "Stad": "Stockholm",
+    "Postnummer": "175 64",
+    "Typ": "Resturang",
+    "Nummer": "08-36 63 76",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Orient Food Farsta Ab",
+    "Address": "Östmarksgatan 6",
+    "Stad": "Stockholm",
+    "Postnummer": "123 42",
+    "Typ": "Affär",
+    "Nummer": "072-838 50 76",
+
+    "Prisklass": "$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Cizgara Kolgrill – Hallunda",
+    "Address": "Hallundavägen",
+    "Stad": "Stockholm",
+    "Postnummer": "145 68",
+    "Typ": "Resturang",
+    "Nummer": "08-531 899 88",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Cizgara Kolgrill – Årsta",
+    "Address": "Sandfjärdsgatan 14",
+    "Stad": "Stockholm",
+    "Postnummer": "120 57",
+    "Typ": "Resturang",
+    "Nummer": "08-508 630 30",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Cizgara Kolgrill – Södertälje",
+    "Address": "Mariekällgatan 14",
+    "Stad": "Stockholm",
+    "Postnummer": "151 44",
+    "Typ": "Resturang",
+    "Nummer": "08-550 640 60",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Göteborgs moské",
+    "Address": "Myntgatan 4",
+    "Stad": "Göteborg",
+    "Postnummer": "417 01",
+    "Typ": "Moské",
+    "Nummer": "031-22 29 33",
+
+    "Stjärnor": 4.7
+  },
+  {
+    "Namn": "German Döner Kebab Skärholmen",
+    "Address": "Skärholmsvägen 7",
+    "Stad": "Stockholm",
+    "Postnummer": "127 48",
+    "Typ": "Resturang",
+    "Nummer": "073-761 10 06",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "German Döner Kebab Gävle",
+    "Address": "Norra Kungsgatan 3",
+    "Stad": "Stockholm",
+    "Postnummer": "803 20",
+    "Typ": "Resturang",
+    "Nummer": "026-10 02 16",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "German Döner Kebab Laxå (World's Largest Kebab Brand)",
+    "Address": "Revirvägen 15",
+    "Stad": "Laxå",
+    "Postnummer": "695 30",
+    "Typ": "Resturang",
+    "Nummer": "073-898 76 53",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "German Döner Kebab Lund",
+    "Address": "Skarpskyttevägen 3",
+    "Stad": "Lund",
+    "Postnummer": "226 42",
+    "Typ": "Resturang",
+    "Nummer": "072-701 70 03",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "German Döner Kebab Umeå",
+    "Address": "Marknadsgatan 3",
+    "Stad": "Umeå",
+    "Postnummer": "904 22",
+    "Typ": "Resturang",
+    "Nummer": "076-774 66 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "German Döner Kebab Rosengård",
+    "Address": "Frölichs väg 3",
+    "Stad": "Malmö",
+    "Postnummer": "213 68",
+    "Typ": "Resturang",
+    "Nummer": "076-203 07 55",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.5
+  },
+  {
+    "Namn": "German Döner Kebab Södervärn",
+    "Address": "Spårvägsgatan 4",
+    "Stad": "Malmö",
+    "Postnummer": "214 27 ",
+    "Typ": "Resturang",
+    "Nummer": "073-595 55 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "German Döner Kebab Gustav Adolfs Torg",
+    "Address": "Gustav Adolfs torg 6",
+    "Stad": "Malmö",
+    "Postnummer": "211 39",
+    "Typ": "Resturang",
+    "Nummer": "076-920 10 79",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "El Birria",
+    "Address": "Gullfossgatan 3",
+    "Stad": "Stockholm",
+    "Postnummer": "164 40",
+    "Typ": "Resturang",
+    "Nummer": "08-31 66 69",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mangal Turkisk Kolgrill",
+    "Address": "Torp Köpcentrum",
+    "Stad": "Uddevalla",
+    "Postnummer": "451 76",
+    "Typ": "Resturang",
+    "Nummer": "073-997 71 90",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Mangal Turkisk Grill & Meze - Kolgrill Jönköping",
+    "Address": "Sjukhusgatan 12",
+    "Stad": "Jönköping",
+    "Postnummer": "553 05",
+    "Typ": "Resturang",
+    "Nummer": "070-606 34 44",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Mangal BBQ Express",
+    "Address": "Takpannegatan 6",
+    "Stad": "Stockholm",
+    "Postnummer": "754 60",
+    "Typ": "Resturang",
+    "Nummer": "018-20 13 13",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "notello rolls Malmö",
+    "Address": "Bergsgatan 41A",
+    "Stad": "Malmö",
+    "Postnummer": "214 22",
+    "Typ": "Kafé",
+    "Nummer": "010-179 99 77",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Mae Thai Express Rinkeby",
+    "Address": "Rinkebytorget 1",
+    "Stad": "Stockholm",
+    "Postnummer": "163 73",
+    "Typ": "Resturang",
+    "Nummer": "070-303 70 27",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Mae Thai Express Vallentuna",
+    "Address": "Tuna Torg 4",
+    "Stad": "Stockholm",
+    "Postnummer": "186 31",
+    "Typ": "Resturang",
+    "Nummer": "072-991 53 35",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Spice Villa",
+    "Address": "Tenstagången 25",
+    "Stad": "Stockholm",
+    "Postnummer": "163 64",
+    "Typ": "Resturang",
+    "Nummer": "076-566 63 61",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Gelatonova Odengatan",
+    "Address": "Odengatan 36",
+    "Stad": "Stockholm",
+    "Postnummer": "113 51",
+    "Typ": "Glassbar",
+    "Nummer": "08-591 186 86",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Gelatonova Norra Stationsgatan",
+    "Address": "Norra Stationsgatan 83",
+    "Stad": "Stockholm",
+    "Postnummer": "113 65",
+    "Typ": "Glassbar",
+    "Nummer": "08-591 186 86",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Döner Factory AVENYN",
+    "Address": "Basargatan 10",
+    "Stad": "Göteborg",
+    "Postnummer": "411 10",
+    "Typ": "Resturang",
+    "Nummer": "076-021 23 60",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Lilla Istanbul",
+    "Address": "Färgfabriksgatan 1",
+    "Stad": "Göteborg",
+    "Postnummer": "417 24",
+    "Typ": "Resturang",
+    "Nummer": "031-22 45 66",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Saray Grill & Kök - Göteborg",
+    "Address": "Alekärrsgatan 10",
+    "Stad": "Göteborg",
+    "Postnummer": "415 25",
+    "Typ": "Resturang",
+    "Nummer": "031-48 98 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Lai Thai Restaurang Gamlestan",
+    "Address": "Artillerigatan 8",
+    "Stad": "Göteborg",
+    "Postnummer": "415 13",
+    "Typ": "Resturang",
+    "Nummer": "031-25 33 50",
+
+    "Prisklass": "$",
+    "Stjärnor": 3.5
+  },
+  {
+    "Namn": "Aliwan Alshami",
+    "Address": "Södra Förstadsgatan 90",
+    "Stad": "Malmö",
+    "Postnummer": "214 20",
+    "Typ": "Resturang",
+    "Nummer": "040-44 06 66",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.6
+  },
+  {
+    "Namn": "Konya Grill",
+    "Address": "Eriksfältsgatan 30",
+    "Stad": "Malmö",
+    "Postnummer": "214 55",
+    "Typ": "Resturang",
+    "Nummer": "040-97 40 40",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Mevlana Kolgrill Norsborg",
+    "Address": "Tingstorget 4",
+    "Stad": "Stockholm",
+    "Postnummer": "145 56",
+    "Typ": "Resturang",
+    "Nummer": "08-777 68 67",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mevlana Kolgrill Järfälla",
+    "Address": "Flyginfarten 4",
+    "Stad": "Stockholm",
+    "Postnummer": "177 44",
+    "Typ": "Resturang",
+    "Nummer": "08-621 06 21",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.8
+  },
+  {
+    "Namn": "Mevlana Kolgrill Malmö",
+    "Address": "Ystadvägen 34",
+    "Stad": "Malmö",
+    "Postnummer": "214 45",
+    "Typ": "Resturang",
+    "Nummer": "040-871 52",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Jasmin Al Sham",
+    "Address": "Södra Förstadsgatan 23B",
+    "Stad": "Malmö",
+    "Postnummer": "211 43",
+    "Typ": "Resturang",
+    "Nummer": "040-21 11 20",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.6
+  },
+  {
+    "Namn": "Sofra kolgrill Norsborg",
+    "Address": "Segersbyvägen 20",
+    "Stad": "Stockholm",
+    "Postnummer": "145 63",
+    "Typ": "Resturang",
+    "Nummer": "08-531 700 30",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Sofra kolgrill Jönköping",
+    "Address": "Sparvhöksgatan 1",
+    "Stad": "Jönköping",
+    "Postnummer": "556 11",
+    "Typ": "Resturang",
+    "Nummer": "036-14 50 50",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+
+  {
+    "Namn": "Sofra kolgrill Järfälla",
+    "Address": "Tornérvägen 27",
+    "Stad": "Stockholm",
+    "Postnummer": "177 30",
+    "Typ": "Resturang",
+    "Nummer": "08-32 24 69",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Pascha Pizza & Kolgrill",
+    "Address": "Fittja Torg 21",
+    "Stad": "Stockholm",
+    "Postnummer": "145 51",
+    "Typ": "Resturang",
+    "Nummer": "08-531 769 62",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Öz Antepli / Båhem konditori",
+    "Address": "Stråkvägen 1",
+    "Stad": "Stockholm",
+    "Postnummer": "169 35",
+    "Typ": "Bageri",
+    "Nummer": "072-251 66 15",
+
+    "Prisklass": "$",
+    "Stjärnor": 4.5
+  },
+  {
+    "Namn": "Fittja Supermarket MACKROGREEN AB",
+    "Address": "Krögarvägen 10",
+    "Stad": "Stockholm",
+    "Postnummer": "145 52",
+    "Typ": "Affär",
+    "Nummer": "08-531 794 01",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Matvärlden Vällingby",
+    "Address": "Årevägen 20",
+    "Stad": "Stockholm",
+    "Postnummer": "162 61",
+    "Typ": "Affär",
+    "Nummer": "08-598 829 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Matvärlden Tensta",
+    "Address": "Tenstagången 7",
+    "Stad": "Stockholm",
+    "Postnummer": "163 64 ",
+    "Typ": "Affär",
+    "Nummer": "08-564 710 00",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.9
+  },
+  {
+    "Namn": "Restaurang Saffran",
+    "Address": "Hanstavägen 55 F",
+    "Stad": "Stockholm",
+    "Postnummer": "164 91",
+    "Typ": "Resturang",
+    "Nummer": "08-82 40 43",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.3
+  },
+  {
+    "Namn": "Istanbul Kebab & Grill",
+    "Address": "Danmarksgatan 30",
+    "Stad": "Stockholm",
+    "Postnummer": "164 53",
+    "Typ": "Resturang",
+    "Nummer": "08-750 98 78",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Kebab & Falafel Kungen",
+    "Address": "Kistagången 1",
+    "Stad": "Stockholm",
+    "Postnummer": "164 42",
+    "Typ": "Resturang",
+    "Nummer": "073-683 33 42",
+
+    "Prisklass": "$",
+    "Stjärnor": 3.6
+  },
+  {
+    "Namn": "Lemon Garden Solna",
+    "Address": "Parkvägen 2",
+    "Stad": "Stockholm",
+    "Postnummer": "169 35",
+    "Typ": "Kafé",
+    "Nummer": "073-525 39 84",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Lemon garden Jönköping",
+    "Address": "Brunnsgatan ",
+    "Stad": "Jönköping",
+    "Postnummer": "553 17",
+    "Typ": "Kafé",
+    "Nummer": "036-466 55",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Lemon Garden Västerås",
+    "Address": "Sigurdsgatan 21",
+    "Stad": "Västerås",
+    "Postnummer": "721 30",
+    "Typ": "Kafé",
+    "Nummer": "072-260 14 71",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Lemon Garden Malmö",
+    "Address": "Einar Hansens Esplanad 45",
+    "Stad": "Malmö",
+    "Postnummer": "211 13",
+    "Typ": "Kafé",
+    "Nummer": "072-929 32 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Lemon Garden",
+    "Address": "Rosenlundsgatan 4",
+    "Stad": "Göteborg",
+    "Postnummer": "411 20",
+    "Typ": "Kafé",
+    "Nummer": "079-339 78 33",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Hello Boba",
+    "Address": "Marconigatan 33-31",
+    "Stad": "Göteborg",
+    "Postnummer": "421 44",
+    "Typ": "Kafé",
+    "Nummer": "",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Bram´s Burgers Huddinge",
+    "Address": "Novavägen 17",
+    "Stad": "Stockholm",
+    "Postnummer": "141 44",
+    "Typ": "Resturang",
+    "Nummer": "08-27 01 11",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.9
+  },
+  {
+    "Namn": "Somali Star",
+    "Address": "Rinkebytorget 8",
+    "Stad": "Stockholm",
+    "Postnummer": "163 73",
+    "Typ": "Resturang",
+    "Nummer": "076-165 67 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 3.7
+  },
+  {
+    "Namn": "Marrakech Kista",
+    "Address": "Digitalgatan 10, 164 40 Kista",
+    "Stad": "Stockholm",
+    "Postnummer": "164 40",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Marrakech Solna Business Park",
+    "Address": "Svetsarvägen 5b, 171 41 Solna",
+    "Stad": "Stockholm",
+    "Postnummer": "171 41",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.0
+  },
+  {
+    "Namn": "Marrakech Garnisonen",
+    "Address": "Karlavägen 100",
+    "Stad": "Stockholm",
+    "Postnummer": "115 26",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Marrakech Lindhagensgatan",
+    "Address": "Lindhagensgatan 134",
+    "Stad": "Stockholm",
+    "Postnummer": "112 16",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Marrakech Solna Strand",
+    "Address": "Solna strandväg 96",
+    "Stad": "Stockholm",
+    "Postnummer": "171 54",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  },
+  {
+    "Namn": "Marrakech Liljeholmskajen",
+    "Address": "Marieviksgatan 19a",
+    "Stad": "Stockholm",
+    "Postnummer": "117 43",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Marrakech restaurang",
+    "Address": "Blickagången 9",
+    "Stad": "Stockholm",
+    "Postnummer": "141 57",
+    "Typ": "Buffé",
+    "Nummer": "08-33 98 39",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "DOST Restaurang & Festvåning",
+    "Address": "Danmarksgatan 55",
+    "Stad": "Uppsala",
+    "Postnummer": "753 23",
+    "Typ": "´Resturang",
+    "Nummer": "018-55 05 05",
+
+    "Prisklass": "$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Lovely India - Indisk restaurang uppsala",
+    "Address": "Björkgatan 6",
+    "Stad": "Uppsala",
+    "Postnummer": "753 24",
+    "Typ": "Resturang",
+    "Nummer": "018-470 00 04",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.1
+  },
+  {
+    "Namn": "Haji Grill - Afgansk restaurang Uppsala",
+    "Address": "Bergsbrunnagatan 28",
+    "Stad": "Uppsala",
+    "Postnummer": "753 23",
+    "Typ": "Resturang",
+    "Nummer": "018-40 43 43",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Mariehems Livs",
+    "Address": "Mariehemsvägen 7A",
+    "Stad": "Umeå",
+    "Postnummer": "906 54",
+    "Typ": "Affär",
+    "Nummer": "090-12 00 30",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.2
+  },
+  {
+    "Namn": "Pappa Thai Takeaway",
+    "Address": "Bondegatan 58",
+    "Stad": "Stockholm",
+    "Postnummer": "116 33",
+    "Typ": "Resturang",
+    "Nummer": "08-22 07 33",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.3
+  },
+  {
+    "Namn": "Grill Midtown Höganäs",
+    "Address": "Centralgatan 29",
+    "Stad": "Höganäs",
+    "Postnummer": "263 38",
+    "Typ": "Resturang",
+    "Nummer": "073-755 00 96",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.6
+  },
+  {
+    "Namn": "Krümel Cookies & Crumbs",
+    "Address": "Valhallavägen 53",
+    "Stad": "Stockholm",
+    "Postnummer": "114 22",
+    "Typ": "Kafé",
+    "Nummer": "072-152 32 25 ",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.8
+  },
+  {
+    "Namn": "Diwan",
+    "Address": "Valhallavägen 153",
+    "Stad": "Stockholm",
+    "Postnummer": "115 31",
+    "Typ": "Resturang",
+    "Nummer": "08-667 37 57",
+
+    "Prisklass": "$$",
+    "Stjärnor": 4.4
+  }
+]
