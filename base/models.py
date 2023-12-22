@@ -5,61 +5,41 @@ from django.utils import timezone
 User = get_user_model()
 
 
+class UseProfile(models.Model):
+    user_ID = models.IntegerField(null=False, default=0)
+    profile_picture = models.ImageField(upload_to="user/profile", null=True, blank=True)
+    banner_picture = models.ImageField(upload_to="user/profile", blank=True, null=True)
+    first_name = models.CharField(max_length=100, null=False)
+    last_name = models.CharField(max_length=100, null=False)
+    description = models.CharField(max_length=300, null=True)
+    phone_number = models.IntegerField(null=True)
+
+
 class Pictures(models.Model):
+    user_profile = models.ForeignKey(
+        UseProfile, on_delete=models.CASCADE, related_name='pictures')
     company_uploads = models.ImageField(upload_to="user/uploads")
 
 
-class UseProfile(models.Model):
-    user = models.ForeignKey(User, on_delete=models.CASCADE)
-    profile_picture = models.ImageField(upload_to="user/profile")
-    Banner_picture = models.ImageField(upload_to="user/profile")
-    first_name = models.CharField(max_length=100, null=False)
-    last_name = models.CharField(max_length=100, null=False)
-    UserCompany = models.CharField(max_length=100, null=True)
-    Role = models.CharField(max_length=100, null=True)
-    Description = models.CharField(max_length=300, null=True)
-    PhoneNumber = models.IntegerField(null=True)
-
-    def __str__(self):
-        return self.first_name
-
-
 class Company(models.Model):
-    CompanyName = models.CharField(max_length=200, blank=False)
-    address = models.CharField(max_length=300, blank=False)
+    user_ID_C = models.IntegerField(null=False, default=0)
+
+    CompanyName = models.CharField(max_length=200, null=True, blank=False)
     CompanyNumber = models.IntegerField(null=True)
-    CompanyOpening = models.TimeField(default=timezone.now)
-    CompanyClosing = models.TimeField(default=timezone.now)
-    company_uploads = models.ForeignKey(
-        Pictures,
-        related_name='companies_uploaded',
-        on_delete=models.CASCADE,
-        default=1  # Replace '1' with the default ID of an existing picture.
-    )
-
-    def __str__(self):
-        return self.CompanyName
-
-
-class Addresses(models.Model):
+    companyEmail = models.CharField(max_length=400, blank=False, null=True)
     Address = models.CharField(
-        max_length=300, blank=False, default="unknown", null=False)
-    Namn = models.CharField(max_length=200, blank=False,
-                            default="unknown", null=False)
+        max_length=300, blank=False, default="unknown", null=True)
+
     Stad = models.CharField(max_length=200, blank=False,
-                            default='Stockholm', null=False)
+                            default='Stockholm', null=True)
     Postnummer = models.CharField(
-        max_length=200, blank=False, default="1234", null=False)
+        max_length=200, blank=False, default="1234", null=True)
     Typ = models.CharField(max_length=100, blank=False,
-                           default="unknown", null=False)
+                           default="unknown", null=True)
     Bild = models.ImageField(upload_to="user/find", null=True, blank=True)
-    Nummer = models.CharField(max_length=300, default='', null=True, blank=True)
-    Stjärnor = models.CharField(max_length=300, default='', null=True, blank=True)
+    
+    
 
     def __str__(self):
-        return self.Address
+        return "Company"
 
-    objects = models.Manager()
-
-    class Meta:
-        default_manager_name = 'objects'
