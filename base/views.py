@@ -72,6 +72,13 @@ class UserProfileView(APIView):
     # Renamed serializer to serializer_class
     serializer_class = UseProfileSerializer
 
+    def get(self, request, *args, **kwargs):
+        queryset = UseProfile.objects.all()
+
+        serializer = self.serializer_class(instance=queryset, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+
     def post(self, request, *args, **kwargs):
         # Assuming 'user_ID_C' is used in the frontend
         user_id = request.data.get('user_ID')
@@ -101,6 +108,12 @@ class UserProfileView(APIView):
 class CompanyView(APIView):
     queryset = Company.objects.all()
     serializer_class = UseCompanySerializer
+    
+    def get(self, request, *args, **kwargs):
+        queryset = Company.objects.all()
+
+        serializer = self.serializer_class(instance=queryset, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
 
     def post(self, request, *args, **kwargs):
         user_id = request.data.get('user_ID_C')
