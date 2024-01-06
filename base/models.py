@@ -16,9 +16,19 @@ class UseProfile(models.Model):
 
 
 class Pictures(models.Model):
-    user_profile = models.ForeignKey(
-        UseProfile, on_delete=models.CASCADE, related_name='pictures')
+    user_ID_P = models.IntegerField(null=False, default=0)
     company_uploads = models.ImageField(upload_to="user/uploads")
+
+    def __str__(self):
+        return "Picture"
+
+class profilePicture(models.Model):
+    user_ID_B = models.IntegerField(null=False, default=0)
+    profile_uploads = models.ImageField(upload_to="user/profile")
+
+    def __str__(self):
+        return "profile"
+
 
 
 class Company(models.Model):

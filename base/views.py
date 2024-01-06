@@ -4,8 +4,8 @@ from rest_framework.decorators import api_view
 from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 from rest_framework_simplejwt.views import TokenObtainPairView
 from rest_framework import generics
-from .models import UseProfile, Company
-from .serializers import UseProfileSerializer, UserSignupSerializer, UseCompanySerializer
+from .models import UseProfile, Company, Pictures, profilePicture
+from .serializers import UseProfileSerializer, UserSignupSerializer, UseCompanySerializer, BannerUpload, ProfileBanner
 import json
 from pathlib import Path
 from django.contrib.auth import authenticate, login
@@ -78,7 +78,6 @@ class UserProfileView(APIView):
         serializer = self.serializer_class(instance=queryset, many=True)
         return Response(serializer.data, status=status.HTTP_200_OK)
 
-
     def post(self, request, *args, **kwargs):
         # Assuming 'user_ID_C' is used in the frontend
         user_id = request.data.get('user_ID')
@@ -108,7 +107,7 @@ class UserProfileView(APIView):
 class CompanyView(APIView):
     queryset = Company.objects.all()
     serializer_class = UseCompanySerializer
-    
+
     def get(self, request, *args, **kwargs):
         queryset = Company.objects.all()
 
@@ -127,11 +126,13 @@ class CompanyView(APIView):
         data = {
             'user_ID_C': user_id,
             'CompanyName': request.data.get('companyName'),
-            'CompanyNumber': request.data.get('number'),  # Match the key 'number' here
+            # Match the key 'number' here
+            'CompanyNumber': request.data.get('number'),
             'companyEmail': request.data.get('companyEmail'),
             'Address': request.data.get('Address'),
             'Stad': request.data.get('City'),  # Match the key 'City' here
-            'Postnummer': request.data.get('postnummer'),  # Match the key 'postnummer' here
+            # Match the key 'postnummer' here
+            'Postnummer': request.data.get('postnummer'),
             'Typ': request.data.get('type'),  # Match the key 'type' here
         }
 
@@ -141,7 +142,6 @@ class CompanyView(APIView):
             serializer.save()
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
 
 
 class UserSignUp(generics.CreateAPIView):
@@ -157,6 +157,83 @@ class UserSignUp(generics.CreateAPIView):
         filter_email = User.objects.filter(email=email)
         if filter_email.exists():
             return Response({"error": "Email already exists"}, status=status.HTTP_400_BAD_REQUEST)
+
+        serializer = self.get_serializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+
+class BannerView(generics.CreateAPIView):
+    queryset = Pictures.objects.all()
+    serializer_class = BannerUpload
+
+    def get(self, request, *args, **kwargs):
+        queryset = Pictures.objects.all()
+
+        serializer = self.serializer_class(instance=queryset, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+        
+    def post(self, request, *args, **kwargs):
+        user_id = request.data.get('user_ID_P')
+
+        # Check if the provided user ID exists in your database
+        if not User.objects.filter(id=user_id).exists():
+            print(f"User with ID {user_id} does not exist.")
+            return Response({'error': 'User does not exist or invalid ID'}, status=status.HTTP_400_BAD_REQUEST)
+
+        # Check if there's an existing entry for the provided user ID
+        picture_instance = Pictures.objects.filter(user_ID_P=user_id).first()
+        serializer = self.get_serializer(picture_instance, data=request.data)
+
+        if serializer.is_valid():
+            serializer.save()
+            if picture_instance:
+                return Response(serializer.data, status=status.HTTP_200_OK)
+            else:
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
+        
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+
+        serializer = self.get_serializer(data=request.data)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+class ProfilePictureView(generics.CreateAPIView):
+    queryset = profilePicture.objects.all()
+    serializer_class = ProfileBanner
+
+    def get(self, request, *args, **kwargs):
+        queryset = profilePicture.objects.all()
+
+        serializer = self.serializer_class(instance=queryset, many=True)
+        return Response(serializer.data, status=status.HTTP_200_OK)
+
+        
+    def post(self, request, *args, **kwargs):
+        user_id = request.data.get('user_ID_B')
+
+        # Check if the provided user ID exists in your database
+        if not User.objects.filter(id=user_id).exists():
+            print(f"User with ID {user_id} does not exist.")
+            return Response({'error': 'User does not exist or invalid ID'}, status=status.HTTP_400_BAD_REQUEST)
+
+        # Check if there's an existing entry for the provided user ID
+        picture_instance = profilePicture.objects.filter(user_ID_B=user_id).first()
+        serializer = self.get_serializer(picture_instance, data=request.data)
+
+        if serializer.is_valid():
+            serializer.save()
+            if picture_instance:
+                return Response(serializer.data, status=status.HTTP_200_OK)
+            else:
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
+        
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
 
         serializer = self.get_serializer(data=request.data)
         serializer.is_valid(raise_exception=True)

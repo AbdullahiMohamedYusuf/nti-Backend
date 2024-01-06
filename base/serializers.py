@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Pictures, UseProfile, Company
+from .models import Pictures, UseProfile, Company,Pictures, profilePicture
 from django.contrib.auth import get_user_model
 
 # Register your Serializers here.
@@ -49,4 +49,14 @@ class UseCompanySerializer(serializers.ModelSerializer):
 class CompanySerializer(serializers.ModelSerializer):
     class Meta:
         model = Company
+        fields = '__all__'
+
+class BannerUpload(serializers.ModelSerializer):
+    class Meta:
+        model = Pictures
+        fields = '__all__'
+
+class ProfileBanner(serializers.ModelSerializer):
+    class Meta:
+        model = profilePicture
         fields = '__all__'
