@@ -12,8 +12,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 
 from pathlib import Path
 from datetime import timedelta
-import dj_database_url
-import sqlite3
+
 
 import os
 
