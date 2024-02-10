@@ -107,13 +107,14 @@ REST_FRAMEWORK = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.environ.get('DB_NAME'),
-        'USER': os.environ.get('DB_USER'),
-        'PASSWORD': os.environ.get('DB_PASSWORD'),
-        'HOST': os.environ.get('DB_HOST'),
-        'PORT': os.environ.get('DB_PORT'),
+        'NAME': 'your_database_name',      # Replace 'your_database_name' with the name of your PostgreSQL database
+        'USER': 'your_database_user',      # Replace 'your_database_user' with the username for connecting to your PostgreSQL database
+        'PASSWORD': 'naruto1441',  # Replace 'your_database_password' with the password for the specified user
+        'HOST': 'localhost',               # Replace 'localhost' with the hostname or IP address of your PostgreSQL server
+        'PORT': '5432',                     # Replace '5432' with the port number of your PostgreSQL server
     }
 }
+
 
 
 # Password validation
